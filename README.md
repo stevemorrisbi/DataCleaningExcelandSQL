@@ -1,6 +1,6 @@
 # Excel and SQL Project
 ### Overview: Working in Excel to clean sales data and using SQL to derive insights from the data. 
-Note - As this a a public repositorie, all data has had to be redacted to ensure confidentiality. 
+Note - All data in this public respository has been redacted to ensure confidentiality. 
 
 ### Steps taken to clean the data in Excel:
 * NULLS for non distinct entries aside from 'order number' and 'user i.d'. NULL data needed to be replaced.
