@@ -3,11 +3,11 @@
 Note - All data in this public respository has been redacted to ensure confidentiality. 
 
 ### Steps taken to clean the data in Excel:
-* NULLS for non distinct entries aside from 'order number' and 'user i.d'. NULL data needed to be replaced.
-* Removal unnessary columns before importing into SQL.
+* The CSV contained NULLS for non distinct entries aside from 'order number' and 'user i.d'. NULL data needed to be replaced.
+* Removal of unnessary columns before importing into SQL.
 * Use of the Proper function to ensure unifrom casing for all columns.
 * Replacement of diacritics to standard English characters.
-* Removal of £ symbol in currency columns - changing the format to a general.
+* Removal of £ symbol in currency columns - changing the format to general.
 
 ![Excel data cleaning blur](https://user-images.githubusercontent.com/99413257/158142532-2c4e3b0a-33b1-43ce-9bd1-fcafd699dab1.jpg)
 
