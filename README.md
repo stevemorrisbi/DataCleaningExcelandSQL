@@ -1,5 +1,5 @@
-# Excel and SQL Project
-### Overview: Working in Excel to clean sales data and using SQL to derive insights from the data. 
+# Excel and SQL - Cleaning and Analysis Project
+### Overview: Working in Excel to clean sales data and using SQL to derive insights. 
 Note - All data in this public respository has been redacted to ensure confidentiality. 
 
 ### Steps taken to clean the data in Excel:
