@@ -13,3 +13,9 @@ Note - As this a a public repositorie, all data has had to be redacted to ensure
 
 ----
 
+### Steps taken to derive insights in SQL:
+A commented SQL script can be found in this repository.
+
+It displays the uses cases for -
+
+SELECT, WHERE, Aliases, SUM, MIN, MAX, AVG, HAVING, COUNT, GROUP BY, ORDER BY, TempTables, DISTINCT, NOT NULL, LIKE and Wildcards.  
